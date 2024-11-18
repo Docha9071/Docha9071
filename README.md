@@ -40,8 +40,8 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Bem-vindo+ao+meu+GitHub!;Desenvolvendo+soluções+criativas;&font=Fira+Code&center=true&width=500&height=50" alt="Typing SVG"/>
 </div>
 
-<!-- Efeito de Código e Hacker -->
+<!-- Animação de Código - GIF -->
 <h2 align="center" style="color: #007bff;">⚡ Codificando... ⚡</h2>
 <div align="center">
-  <iframe src="https://giphy.com/embed/dXmcLg9D9Y1JS" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+  <img src="https://media.giphy.com/media/MdO6b8ZZZK4zZhsAmJ/giphy.gif" alt="Codificando Gif" width="480" height="270"/>
 </div>
