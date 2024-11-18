@@ -42,6 +42,3 @@
 
 <!-- Animação de Código - GIF -->
 <h2 align="center" style="color: #007bff;">⚡ Codificando... ⚡</h2>
-<div align="center">
-  <img src="https://media.giphy.com/media/MdO6b8ZZZK4zZhsAmJ/giphy.gif" alt="Codificando Gif" width="480" height="270"/>
-</div>
