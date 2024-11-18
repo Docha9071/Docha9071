@@ -4,7 +4,6 @@
 <!-- Contador de visualizações do perfil -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Docha9071&color=yellow" alt="Profile views" /> </p>
 
-
 <!-- Introdução -->
 <p align="center" style="font-size: 18px; color: #333;">Sou um profissional técnico em Logística e atualmente estou cursando <strong>Gestão de Tecnologia da Informação</strong> na Universidade São Judas Unimonte, onde estou no segundo semestre. Minha jornada na programação começou no início de 2024, e desde então venho me aprofundando cada vez mais na área de tecnologia. Tenho um grande interesse em <strong>análise de sistemas</strong> e busco constantemente expandir meus conhecimentos e habilidades. Estou animado para colaborar em projetos desafiadores e inovadores!</p>
 
@@ -35,11 +34,14 @@
   <a href="https://www.linkedin.com/in/riquelmeguedes/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
-<!-- Cobrinha centralizada -->
-<div align="center" style="margin-top: 20px;">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yasvieir/yasvieir/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yasvieir/yasvieir/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/yasvieir/yasvieir/output/github-contribution-grid-snake.svg">
-  </picture>
+<!-- Animação SVG -->
+<h2 align="center" style="color: #007bff;">👾 Digitação em Progresso...</h2>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Bem-vindo+ao+meu+GitHub!;Desenvolvendo+soluções+criativas;&font=Fira+Code&center=true&width=500&height=50" alt="Typing SVG"/>
+</div>
+
+<!-- Efeito de Código e Hacker -->
+<h2 align="center" style="color: #007bff;">⚡ Codificando... ⚡</h2>
+<div align="center">
+  <iframe src="https://giphy.com/embed/dXmcLg9D9Y1JS" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 </div>
