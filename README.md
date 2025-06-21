@@ -6,13 +6,12 @@
 
 <!-- Introdução -->
 <p align="center" style="font-size: 18px; color: #333;">
-  Sou <strong>Analista de Dados</strong> na Azuki, com experiência em Banco de Dados, 
-  Planejamento Estratégico e Pricing. Sou profissional técnico em Logística e 
-  atualmente curso <strong>Gestão de Tecnologia da Informação</strong> na 
-  Universidade São Judas Unimonte, agora no <strong>3º semestre</strong>. 
-  Minha jornada na programação começou em 2024, e desde então venho me aprofundando em 
-  <strong>Análise de Sistemas</strong> e Desenvolvimento Front-end. 
-  Estou sempre em busca de aprender novas tecnologias e colaborar em projetos inovadores!
+  Sou profissional técnico em Logística e atualmente curso Gestão de Tecnologia da Informação
+  na Universidade São Judas Unimonte. agora no 3º semestre. Além disso, atuo como Agente de 
+  Registro no Syngular ID, Gestor de AR na Certisign e Assistente Administrativo na Life Santos.
+  Fui Analista de Qualidade na Zukkin. Minha jornada na programação começou em 2024, e desde então
+  venho me aprofundando em Análise de Sistemas e Desenvolvimento Front-end. Estou sempre em busca 
+  de aprender novas tecnologias e colaborar em projetos inovadores!
 </p>
 
 <!-- GitHub Status -->
