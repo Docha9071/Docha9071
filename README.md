@@ -62,4 +62,3 @@
 
 <!-- Animação de Código - GIF -->
 <h2 align="center" style="color: #007bff;">⚡ Codificando... ⚡</h2>
-<img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" align="center" />
